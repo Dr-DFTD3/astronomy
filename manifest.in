@@ -1,0 +1,13 @@
+# distributed files/directories
+astronopy.py
+psolver.py
+catalogs.py
+time_data.py
+common.py
+cli.py
+notes.in
+
+data/messier.dat
+data/ngc.dat
+data/user.dat
+data/astronopy.cfg

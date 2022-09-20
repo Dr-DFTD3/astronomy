@@ -1,0 +1,101 @@
+#ID     Type     Constellation  RA  DEC  Magnitude
+1		Spiral galaxy	Pegasus	00h 07m 15.8s	+27° 42′ 29″	13.65
+2		Spiral galaxy	Pegasus	00h 07m 17.1s	+27° 40′ 42″	14.96
+3		Lenticular galaxy	Pisces	00h 07m 16.8s	+08° 18′ 06″	14.2
+4		Galaxy	Pisces	00h 07m 24.4s	+08° 22′ 26″	16.8
+5		Elliptical galaxy	Andromeda	00h 07m 48.9s	+35° 21′ 44″	14.33
+6	(Duplicate of NGC 20)	Lenticular galaxy	Andromeda	00h 09m 32.7s	+33° 18′ 31″	14.04
+7		Spiral galaxy	Sculptor	00h 08m 20.9s	−29° 54′ 54″	13.47
+8		Double star[5]	Pegasus	00h 08m 45.3s	+23° 50′ 20″	15.2/16.5
+9		Spiral galaxy	Pegasus	00h 08m 54.7s	+23° 49′ 02″	14.5
+10		Spiral galaxy	Sculptor	00h 08m 34.5s	−33° 51′ 31″	13
+11		Spiral galaxy	Andromeda	00h 08m 42.5s	+37° 26′ 52″	14.5
+12		Spiral galaxy	Pisces	00h 08m 44.8s	+04° 36′ 45″	14.5
+13		Spiral galaxy	Andromeda	00h 08m 47.8s	+33° 25′ 58″	14.2
+14		Irregular galaxy	Pegasus	00h 08m 46.4s	+15° 48′ 59″	13.3
+15		Ring galaxy	Pegasus	00h 09m 02.5s	+21° 37′ 27″	14.9
+16		Lenticular galaxy	Pegasus	00h 09m 04.3s	+27° 43′ 45″	13.0
+17		Spiral galaxy	Cetus	00h 11m 06.60s	−12° 06′ 26″	14.0
+18		Double star[1]	Pegasus	00h 09m 23.1s[5]	+27° 43′ 55″[5]	14.0
+19		Spiral galaxy	Andromeda	00h 10m 40.9s[5]	+32° 58′ 59″[5]	14.0[5]
+20		Lenticular galaxy	Andromeda	00h 09m 32.8s	+33° 18′ 31″	14.5
+21		Spiral galaxy[6]	Andromeda	00h 10m 41.0s	+32° 58′ 57″	13.9
+22		Spiral galaxy	Pegasus	00h 09m 48.3s	+27° 49′ 56″	14.9
+23		Spiral galaxy	Pegasus	00h 09m 53.4s	+25° 55′ 27″	12.5
+24		Spiral galaxy	Sculptor	00h 09m 56.5s	−24° 57′ 48″	12.1
+25		Lenticular galaxy	Phoenix	00h 10m 00.8s	−57° 01′ 07″	15.5
+26		Spiral galaxy	Pegasus	00h 10m 26.1s	+25° 49′ 55″	13.9
+27		Spiral galaxy	Andromeda	00h 10m 32.8s	+28° 59′ 47″	14.5
+28		Elliptical galaxy	Phoenix	00h 10m 25.1s	−56° 59′ 23″	13.8
+29	(Duplicate of NGC 21)	Spiral galaxy	Andromeda	00h 10m 47.1s	+33° 21′ 09″	14.5
+30		Double star[1]	Pegasus	00h 11m[1]	+21° 57′[1]	14.8/15
+31		Spiral galaxy	Phoenix	00h 10m 38.5s	−56° 59′ 11″	13.9
+32		Asterism[1]	Pegasus	00h 11m[1]	+18° 47′[1]	14
+33		Double star[1]	Pisces	00h 11m[1]	+03° 40′[1]	15
+34	(Duplicate of NGC 17)	Spiral galaxy	Cetus	00h 11m 06.6s	−12° 06′ 26″	14.0
+35		Spiral galaxy	Cetus	00h 11m 10.5s	−12° 01′ 15″	14
+36		Spiral galaxy	Pisces	00h 11m 22.5s	+06° 23′ 21″	14.5
+37		Lenticular galaxy	Phoenix	00h 11m 22.7s	−56° 57′ 22″	13.7
+38		Spiral galaxy	Pisces	00h 11m 47.0s	−05° 35′ 09″	13.5
+39		Spiral galaxy	Andromeda	00h 12m 19.0s	+31° 03′ 40″	14.4
+40		Planetary nebula	Cepheus	00h 13m 01.0s	+72° 31′ 19″	11.7
+41		Spiral galaxy	Pegasus	00h 12m 48.0s	+22° 01′ 26″	14.6
+42		Lenticular galaxy	Pegasus	00h 12m 56.4s	+22° 05′ 60″	15.0
+43		Lenticular galaxy	Andromeda	00h 13m 01.0s	+30° 54′ 55″	13.9
+44		Double star[5]	Andromeda	00h 13m	+31° 18′	14.6
+45		Irregular galaxy	Cetus	00h 14m 04.0s	−23° 10′ 51″	11.2
+46		Star[1]	Pisces	00h 14m[1]	+05° 59′[1]	11.8
+47		Spiral galaxy	Cetus	00h 14m 30.6s	−07° 10′ 03″	13
+48		Spiral galaxy	Andromeda	00h 14m 02.3s	+48° 14′ 4″	15.0
+49		Lenticular galaxy	Andromeda	00h 14m 22.5s	+48° 14′ 47″	15.3
+50		Lenticular galaxy	Cetus	00h 14m 44.7s	−07° 20′ 42″	12
+51		Lenticular galaxy	Andromeda	00h 14m 35.0s	+48° 15′ 20″	14.6
+52		Spiral galaxy	Pegasus	00h 14m 40.3s	+18° 34′ 55″	14.6
+53		Spiral galaxy	Tucana	00h 14m 42.9s	−60° 19′ 39″	12.6
+54		Spiral galaxy	Cetus	00h 15m 07.7s	−07° 06′ 25″	14
+55		Irregular galaxy	Sculptor	00h 15m 08.4s	−39° 13′ 13″	8.2
+56		Unknown	Pisces	00h 15m	+12° 27′	N/A
+57		Elliptical galaxy	Pisces	00h 15m 31.0s	+17° 19′ 41″	13.7
+58	(Duplicate of NGC 47)	Spiral galaxy	Cetus	00h 14m 30.6s	−07° 10′ 03″	13
+59		Lenticular galaxy	Cetus	00h 15m 25.4s	−21° 26′ 42″	13.1
+60		Spiral galaxy	Pisces	00h 15m 58.3s	−00° 18′ 14″	15.4
+61		Interacting galaxies	Pisces	00h 16m 24.3s	−06° 19′ 08″	15
+62		Spiral galaxy	Cetus	00h 17m 05.4s	−13° 29′ 15″	14
+63		Spiral galaxy	Pisces	00h 17m 45.6s	+11° 27′ 01″	12.6
+64		Spiral galaxy	Cetus	00h 17m 30.3s	−06° 49′ 29″	13.6
+65		Lenticular galaxy	Cetus	00h 18m 58.6s	−22° 52′ 48″	13.9
+66		Spiral galaxy	Cetus	00h 19m 04.9s	−22° 56′ 11″	13.5
+67		Elliptical galaxy	Andromeda	00h 18m 14.9s	+30° 03′ 46″	15.7
+68		Lenticular galaxy	Andromeda	00h 18m 18.5s	+30° 04′ 17″	14.5
+69		Lenticular galaxy	Andromeda	00h 18m 20.5s	+30° 02′ 24″	15.7
+70		Spiral galaxy	Andromeda	00h 18m 22.6s	+30° 04′ 46″	14.5
+71		Lenticular galaxy	Andromeda	00h 18m 23.6s	+30° 03′ 47″	14.8
+72		Spiral galaxy	Andromeda	00h 18m 28.4s	+30° 02′ 26″	15.0
+73		Spiral galaxy	Cetus	00h 18m 39.0s	−15° 19′ 20″	13
+74		Galaxy	Andromeda	00h 18m 49.4s	+30° 03′ 42″	16
+75		Lenticular galaxy	Pisces	00h 19m 26.4s	+06° 26′ 57″	14.8
+76		Spiral galaxy	Andromeda	00h 19m 37.8s	+29° 56′ 2″	14.0
+77		Lenticular galaxy	Cetus	00h 20m 01.7s	−22° 31′ 56″	14.8
+78		Interacting galaxies	Pisces	00h 20m 27.6s	+00° 49′ 60″	14.5
+79		Elliptical galaxy	Andromeda	00h 21m 02.9s	+22° 33′ 60″	14.9
+80		Lenticular galaxy	Andromeda	00h 21m 11.0s	+22° 21′ 24″	13.7
+81		Galaxy	Andromeda	00h 21m 13.2s	+22° 22′ 59″	17.7
+82		Star[5]	Andromeda	00h 21m 17.5s[5]	+22° 27′ 37″[5]	14.6
+83		Elliptical galaxy	Andromeda	00h 21m 22.5s	+22° 26′ 00″	14.2
+84		Star[5]	Andromeda	00h 21m 33.7s	+22° 35′ 35″	15.8
+85		Lenticular galaxy	Andromeda	00h 21m 25.5s	+22° 30′ 42″	15.7
+86		Spiral galaxy	Andromeda	00h 21m 28.7s	+22° 33′ 23″	14.9
+87		Irregular galaxy	Phoenix	00h 21m 14.0s	−48° 37′ 42″	14.5
+88		Spiral galaxy	Phoenix	00h 21m 21.8s	−48° 38′ 25″	15.2
+89		Spiral galaxy	Phoenix	00h 21m 24.4s	−48° 39′ 57″	14.6
+90		Galaxy[7]	Andromeda	00h 21m 51.4s[7]	+22° 24′ 00″[7]	13.7
+91		Star[7]	Andromeda	00h 21m 51.7s[7]	+22° 22′ 06″[7]	14.4
+92		Spiral galaxy	Phoenix	00h 21m 31.4s	−48° 37′ 28″	14.3
+93		Spiral galaxy	Andromeda	00h 22m 03.4s	+22° 24′ 28″	14.7
+94		Lenticular galaxy	Andromeda	00h 22m 13.1s	+22° 28′ 44″	15.6
+95		Spiral galaxy	Pisces	00h 22m 13.7s	+10° 29′ 29″	13.4
+96		Lenticular galaxy	Andromeda	00h 22m 17.8s	+22° 32′ 48″	17
+97		Elliptical galaxy	Andromeda	00h 22m 30.1s	+29° 44′ 43″	13.5
+98		Spiral galaxy	Phoenix	00h 22m 49.5s	−45° 16′ 09″	12.8
+99		Spiral galaxy	Pisces	00h 23m 59.5s	+15° 46′ 14″	14.0
+100		Spiral galaxy	Pisces	00h 24m 02.8s	+16° 29′ 10″	14.6

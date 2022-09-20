@@ -1,0 +1,22 @@
+
+## TODO:
+## Add internal support for conversion from RAW to JPEG
+
+
+## add dictionary of NGC objects
+## 
+
+## Add polar alignment help
+
+## Add goto help. Need to decide simplest 
+## move to goto target.  Currently works if
+## very close. NOT WORKING if on different 
+## side of meridian....
+
+## do careful check on DEC. things
+## probably meed to change since 
+## phi in [ -90,90 ] ... 
+## -90 -> 270
+## 90 -> 0
+## two zeros for east west...
+

@@ -1,0 +1,30 @@
+m45 below horizon, east of NS meridian
+m15 above horizon, east of NS meridian
+
+m45(LHA) > 0
+m15(LHA) < 0
+
+
+m45 below horizon, east of NS meridian
+m39 above horizon, east of NS meridian
+
+m45(LHA) > 0
+m39(LHA) < 0
+
+m45 below horizon, east of NS meridian
+m42 below horizon, east of NS meridian
+
+m45(LHA) > 0
+m42(LHA) > 0
+
+m45 below horizon, east of NS meridian
+m48 below horizon, west of NS meridian
+
+m45(LHA) > 0
+m48(LHA) > 0
+
+m45 below horizon, east of NS meridian
+m81 above horizon, west of NS meridian
+
+m45(LHA) > 0
+m81(LHA) > 0
